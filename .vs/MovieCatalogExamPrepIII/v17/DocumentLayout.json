@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\tests\\moviecatalogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\tests\\moviecatalogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\editmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\editmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\deletemoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\deletemoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\allmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\allmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\addmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\addmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\watchedmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\watchedmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|c:\\users\\arzja\\source\\repos\\moviecatalogexamprepiii\\moviecatalogtests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62774710-450D-41BA-9793-7CF7AD5322CF}|MovieCatalogTests\\MovieCatalogTests.csproj|solutionrelative:moviecatalogtests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteMoviePage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\DeleteMoviePage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\DeleteMoviePage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\DeleteMoviePage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\DeleteMoviePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:18:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WatchedMoviesPage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\WatchedMoviesPage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\WatchedMoviesPage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\WatchedMoviesPage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\WatchedMoviesPage.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:19:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditMoviePage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\EditMoviePage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\EditMoviePage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\EditMoviePage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\EditMoviePage.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:53:41.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddMoviePage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\AddMoviePage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\AddMoviePage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\AddMoviePage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\AddMoviePage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:54:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllMoviesPage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\AllMoviesPage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\AllMoviesPage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\AllMoviesPage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\AllMoviesPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:03:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\BasePage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:09:35.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Tests\\BaseTest.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:54:56.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieCatalogTests.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Tests\\MovieCatalogTests.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Tests\\MovieCatalogTests.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Tests\\MovieCatalogTests.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Tests\\MovieCatalogTests.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAgwFIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:52:00.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogTests\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\MovieCatalogExamPrepIII\\MovieCatalogTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "MovieCatalogTests\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:27:41.711Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
